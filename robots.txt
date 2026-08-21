@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://evakuator-sev92.ru/sitemap.xml
